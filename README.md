@@ -1,5 +1,5 @@
 # eNMS_vulnerabilities
-![image](https://github.com/user-attachments/assets/2e0dec79-9107-4f6b-8b5c-bf09b619efb0)
+![image](https://github.com/skit-cyber-security/eNMS_vulnerabilities/blob/main/assets/all.png)
 
 
 ## download/folder Path Traversal
