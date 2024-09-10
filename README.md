@@ -1,4 +1,6 @@
 # eNMS_vulnerabilities
+path traversal vulnerabilities affecting eNMS product (https://github.com/eNMS-automation/eNMS)
+
 ![image](https://github.com/skit-cyber-security/eNMS_vulnerabilities/blob/main/assets/all.png)
 
 ## download/folder Path Traversal
